@@ -6,7 +6,7 @@
 - 🌍 Based in: France, Rouen
 - 💼 Study : Currently pursuing a Master's degree in Computer Science
 - 🛠️ Programming Languages: Java, JavaScript, C, PHP, Python
-- 🛠️ Frameworks and Tools: React, Symfony, Express, Eclipse/VsCode
+- 🛠️ Frameworks and Tools: React, Symfony, Express, React Native/Expo, Eclipse/VsCode
 - 🌱 Currently learning: Spring Boot
 
 ## 🌟 Featured Projects
