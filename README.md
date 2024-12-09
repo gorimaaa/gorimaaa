@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm John Doe!
 
-<!--
-**gorimaaa/gorimaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Software Developer | 🌟 Open Source Contributor | 📚 Tech Enthusiast  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌍 Based in: San Francisco, CA
+- 💼 Working as: Senior Software Engineer
+- 🛠️ Skilled in: Python, JavaScript, React, Docker
+- 🌱 Currently learning: Rust and Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- [SuperProject](https://github.com/johndoe/superproject)  
+  Revolutionizing how people manage tasks with AI.
+
+- [DevTool](https://github.com/johndoe/devtool)  
+  An open-source productivity booster for developers.
+
+## 📊 GitHub Stats
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=dark)
+
+## 🤝 Let's Connect
+- [LinkedIn](https://linkedin.com/in/johndoe)
+- [Twitter](https://twitter.com/johndoe)
+- [Portfolio](https://johndoe.com)
