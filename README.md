@@ -10,7 +10,7 @@
 - 🌱 Currently learning: Spring Boot
 
 ## 🌟 Featured Projects
-- [CruciWeb](https://github.com/gorimaaa/CruciWeb)  
+- [CruciWeb](https://github.com/gorimaaa/Crossword_WebApp)  
   A crossword website made without any framework
 
 ## 📊 GitHub Stats
